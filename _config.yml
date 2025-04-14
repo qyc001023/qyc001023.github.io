@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Yucheng Qian"
   pronouns         : "he/him"
-  bio              : "Hello"
+  bio              : "Hainan University"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "24220854050023@hainanu.edu.cn" 
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/qyc001023"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
